@@ -1,0 +1,22 @@
+{
+  "name": "refresh-instagram-tokens",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kod8/refresh-instagram-tokens.git"
+  },
+  "author": "abdullah",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/kod8/refresh-instagram-tokens/issues"
+  },
+  "homepage": "https://github.com/kod8/refresh-instagram-tokens#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
