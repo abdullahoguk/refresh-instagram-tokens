@@ -1,6 +1,6 @@
 # Batch Refresh Instagram Tokens
 
-A simple Node.js script for batch refreshing Instagram tokens in an intevnal by using Github Actions.
+A simple Node.js script for batch refreshing Instagram tokens in an interval by using Github Actions.
 
 ## Usage
 
