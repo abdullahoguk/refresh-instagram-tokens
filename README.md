@@ -17,7 +17,7 @@ A simple Node.js script for batch refreshing Instagram tokens in an interval by 
 
 - A token can't be refreshed if user changed password or revokes app's access. 
 - You can see the output in actions tab to check if a token's refresh is failed and why.
-- If your repository is public, your tokens might be invalidated since Facebook partnered with Github on scanning program. You can get a message with someting like this.
+- If your repository is public, your tokens might be invalidated since Facebook partnered with Github on scanning program. You can get a message with someting like this:
 ```
 Access token invalidation FYI
 This application has been identified as having access tokens associated with 
